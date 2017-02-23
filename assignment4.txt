@@ -1,0 +1,27 @@
+1. The characteristics of Big data:
+
+	* Volume-The amount of data generated and stored.The size of the data is an important factor and determines the value and hence can be 
+	                considered as a big data or not
+
+	* Variety-This deals with the variety of data.
+
+	* Velocity-	This deals with the speed at which data id generated and  processed.
+
+	* Variablility-This deals with the inconsistency of data that hamper processes to handle and manage it
+
+	*Varacity-This deals with the quality of the data that is captured.
+
+2.  The possible solutions to handle Big data:
+
+	1. Scale Up :
+		Increase the configurations of the individual system like disk capacity,RAM capacity, etc.
+	2.Scale Out:
+		Use multiple commodity hardwares and there by distributing the load in regards with storage or processing.
+		Hence making it economical and efficient.
+
+3. The differences between scaling up and scaling out:
+
+	Scaling up:Scaling up  refers to the purchasing and installing better hardwares there by 
+		increasing the capacity and performances.
+	Scaling down: scaling out refers to the process of linking together various lower-performance
+		     machines to collectively do the work of an advanced system as a single device.
